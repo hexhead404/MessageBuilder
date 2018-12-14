@@ -1,0 +1,7 @@
+C:\data\code\mail.helper\mail.helper\obj\Debug\mail.helper.csprojAssemblyReference.cache
+C:\data\code\mail.helper\mail.helper\obj\Debug\mail.helper.csproj.CoreCompileInputs.cache
+C:\data\code\mail.helper\mail.helper\bin\Debug\mail.helper.exe.config
+C:\data\code\mail.helper\mail.helper\bin\Debug\mail.helper.exe
+C:\data\code\mail.helper\mail.helper\bin\Debug\mail.helper.pdb
+C:\data\code\mail.helper\mail.helper\obj\Debug\mail.helper.exe
+C:\data\code\mail.helper\mail.helper\obj\Debug\mail.helper.pdb
